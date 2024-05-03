@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/Insurance-Landing-Website/static/css/main.409968bf.css",
+    "main.css": "/Insurance-Landing-Website/static/css/main.9b410f33.css",
     "main.js": "/Insurance-Landing-Website/static/js/main.8be25929.js",
+    "static/media/Karla-VariableFont_wght.ttf": "/Insurance-Landing-Website/static/media/Karla-VariableFont_wght.1d835e644ae4118a28fc.ttf",
+    "static/media/DMSerifDisplay-Regular.ttf": "/Insurance-Landing-Website/static/media/DMSerifDisplay-Regular.ca478f5117e07586dd07.ttf",
     "static/media/image-intro-desktop.jpg": "/Insurance-Landing-Website/static/media/image-intro-desktop.2f3429f63753a67e322b.jpg",
     "static/media/logo.svg": "/Insurance-Landing-Website/static/media/logo.b84080a147fc2d2276186c0349edfeec.svg",
     "static/media/bg-pattern-footer-desktop.svg": "/Insurance-Landing-Website/static/media/bg-pattern-footer-desktop.700c39ea607592bfacaf790991a07f0b.svg",
@@ -13,11 +15,11 @@
     "static/media/icon-twitter.svg": "/Insurance-Landing-Website/static/media/icon-twitter.5e850eb31e4bad3bc4bf26b14b0cdd7f.svg",
     "static/media/icon-facebook.svg": "/Insurance-Landing-Website/static/media/icon-facebook.4333c44571bee8e7f461b2fdaed6a6c0.svg",
     "static/media/icon-snappy-process.svg": "/Insurance-Landing-Website/static/media/icon-snappy-process.eea918825472aa9c0993c85ced5522e7.svg",
-    "main.409968bf.css.map": "/Insurance-Landing-Website/static/css/main.409968bf.css.map",
+    "main.9b410f33.css.map": "/Insurance-Landing-Website/static/css/main.9b410f33.css.map",
     "main.8be25929.js.map": "/Insurance-Landing-Website/static/js/main.8be25929.js.map"
   },
   "entrypoints": [
-    "static/css/main.409968bf.css",
+    "static/css/main.9b410f33.css",
     "static/js/main.8be25929.js"
   ]
 }
