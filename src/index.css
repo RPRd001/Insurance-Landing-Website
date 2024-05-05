@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+	font-family: "DM Serif Display";
+	src: url(./fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf);
+}
+@font-face {
+	font-family: "Karla";
+	src: url(./fonts/Karla/Karla-VariableFont_wght.ttf);
+}
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	/* Primary Colors */
+	--dark-violet: hsl(256, 25%, 20%);
+	--grayish-blue: hsl(216, 30%, 68%);
+
+	/* Neutral Colors */
+	--very-dark-violet: hsl(270, 9%, 17%);
+	--dark-grayish-violet: hsl(273, 4%, 51%);
+	--very-light-gray: hsl(0, 0%, 98%);
+
+	/* Headings Font */
+	--font-heading: "DM Serif Display", Serif;
+	--font-weight-heading: 400;
+
+	/* Headings Body */
+	--font-body: "Karla", sans-serif;
+}
+
+body {
+	min-height: 100vh;
+	font-family: var(--font-body);
+	font-size: 16px;
+}
+
+header ul li {
+	color: var(--dark-grayish-violet);
+}
+
+.hero {
+	background-color: var(--dark-violet);
+}
+
+.hero h1 {
+	color: var(--very-light-gray);
+	font-family: var(--font-heading);
+}
+
+h1,
+h2,
+h3 {
+	font-family: var(--font-heading);
+}
+
+.hero p {
+	color: var(--very-light-gray);
+}
+
+.hero button {
+	color: var(--very-light-gray);
+}
