@@ -5,7 +5,6 @@ import pinterestIcon from "../images/icon-pinterest.svg";
 import instagramIcon from "../images/icon-instagram.svg";
 import footerPatternDesktop from "../images/bg-pattern-footer-desktop.svg";
 
-// var(--very-light-gray)
 
 const Footer = () => {
 	return (
