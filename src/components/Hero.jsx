@@ -11,7 +11,7 @@ const Hero = () => {
 					</h1>
 					<p className="mt-6">
 						Get your life insurance coverage easier and faster. We blend our
-						expertise and technology to help you find the plan that$apos;s right for
+						expertise and technology to help you find the plan that&apos;s right for
 						you. Ensure you and your loved ones are protected.
 					</p>
 					<button className="font-bold text-sm  border-2 border-[var(--very-light-gray)] px-4 py-2 mt-6">
